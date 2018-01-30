@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../SASS/app.css",
+	"sources": [
+		"../SASS/app.scss"
+	],
+	"sourcesContent": [
+		""
+	],
+	"mappings": "",
+	"names": []
+}
